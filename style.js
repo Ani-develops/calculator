@@ -16,6 +16,12 @@ function evaluate() {
     input.value = eval(input.value);
     console.log(input.value);
 }
+function allClear() {
+    input.value = "";
+}
 
+function del() {
+    input.value = input.value.slice(0, -1);
+}
 
 
