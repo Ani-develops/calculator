@@ -8,9 +8,9 @@
     background-color: #99f8ff;
     background-image:
       radial-gradient(at 66% 51%, rgb(245, 231, 241) 0px, transparent 50%),
-      radial-gradient(at 18% 22%, rgb(94, 111, 137) 0px, transparent 50%),
+      radial-gradient(at 18% 22%, rgb(94, 111, 137) 0px, transparent 60%),
       radial-gradient(at 74% 38%, rgb(101, 123, 58) 0px, transparent 50%),
-      radial-gradient(at 6% 93%, rgb(103, 41, 126) 0px, transparent 50%);
+      radial-gradient(at 6% 93%, rgb(103, 41, 126) 0px, transparent 60%);
   }
   h1{
     text-align: center;
